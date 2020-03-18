@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Monday, August 20, 2018, 3:08 AM -->
+<!-- MuClient version 5.03 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+
+<!-- Plugin state saved. Plugin: "accelerators". World: "Materia Magica GMCP". -->
+
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="5.03"
+   world_file_version="15"
+   date_saved="2018-08-20 03:08:02"
+  >
+  <variable name="use_keystrokes">use_keystrokes = {
+  ["ctrl + 0"] = "Line_Get 10",
+  ["alt+add"] = "look down",
+  ["alt+p"] = "read captures announce",
+  ["ctrl + 3"] = "Line_Get 3",
+  ["ctrl+alt+numpad8"] = "flee north",
+  numpad6 = "east",
+  ["ctrl+alt+subtract"] = "flee up",
+  ["ctrl+alt+numpad6"] = "flee east",
+  numpad1 = "southwest",
+  ["ctrl+add"] = "open down door",
+  ["alt+numpad8"] = "look north",
+  ["alt+r"] = "read captures relay",
+  ["ctrl + 2"] = "Line_Get 2",
+  ["ctrl+alt+numpad7"] = "flee northwest",
+  ["ctrl+numpad6"] = "open east door",
+  ["ctrl+d"] = "check equipment decay",
+  ["ctrl+alt+add"] = "flee down",
+  ["ctrl + 6"] = "Line_Get 6",
+  ["alt+."] = "check lowest",
+  ["shift+alt+u"] = "read captures auction",
+  ["shift+alt+j"] = "read captures page",
+  ["ctrl + 4"] = "Line_Get 4",
+  ["ctrl+numpad7"] = "open northwest door",
+  ["ctrl+numpad8"] = "open north door",
+  numpad3 = "southeast",
+  ["alt+subtract"] = "look up",
+  add = "down",
+  ["ctrl + shift + f12"] = "tts",
+  ["ctrl + 1"] = "Line_Get 1",
+  numpad8 = "north",
+  ["alt+a"] = "read captures alliance",
+  numpad2 = "south",
+  ["alt+o"] = "score st",
+  ["shift+alt+;"] = "read captures yell",
+  ["ctrl+numpad9"] = "open northeast door",
+  ["alt+numpad9"] = "look northeast",
+  subtract = "up",
+  ["ctrl+alt+numpad1"] = "flee southwest",
+  ["ctrl + 7"] = "Line_Get 7",
+  numpad7 = "northwest",
+  ["ctrl+numpad2"] = "open south door",
+  ["ctrl+alt+numpad2"] = "flee south",
+  ["alt+numpad1"] = "look southwest",
+  ["alt+/"] = "check tank",
+  ["alt+numpad2"] = "look south",
+  ["ctrl+alt+numpad4"] = "flee west",
+  ["alt+i"] = "score sp",
+  ["alt+l"] = "read captures form",
+  ["ctrl+alt+numpad3"] = "flee southeast",
+  numpad4 = "west",
+  ["alt+numpad3"] = "look southeast",
+  ["alt+numpad7"] = "look northwest",
+  ["alt+k"] = "read captures clan",
+  ["ctrl + f12"] = "sound_toggle",
+  ["ctrl+numpad3"] = "open southeast door",
+  ["ctrl + 5"] = "Line_Get 5",
+  ["ctrl+alt+numpad5"] = "flee",
+  ["ctrl+alt+numpad9"] = "flee northeast",
+  ["alt+j"] = "read captures tell",
+  ["alt+numpad4"] = "look west",
+  numpad9 = "northeast",
+  ["alt+,"] = "check victimhp",
+  ["ctrl + 8"] = "Line_Get 8",
+  ["alt+u"] = "score hp",
+  ["ctrl+numpad4"] = "open west door",
+  ["alt+c"] = "show coords",
+  ["alt+;"] = "read captures say",
+  ["ctrl + 9"] = "Line_Get 9",
+  ["ctrl+subtract"] = "open up door",
+  ["alt+numpad6"] = "look east",
+  ["ctrl+numpad1"] = "open southwest door",
+  }</variable>
+</variables>
+</muclient>

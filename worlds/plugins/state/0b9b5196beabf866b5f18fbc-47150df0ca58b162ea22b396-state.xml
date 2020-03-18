@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Wednesday, January 01, 2014, 8:16 PM -->
+<!-- MuClient version 4.91 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+
+<!-- Plugin state saved. Plugin: "capture2notepads". World: "Materia Magica GMCP". -->
+
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="4.91"
+   world_file_version="15"
+   date_saved="2014-01-01 20:16:34"
+  >
+  <variable name="bg_color">black</variable>
+  <variable name="font">Lucida Console</variable>
+  <variable name="font_size">10</variable>
+  <variable name="notepad_echo">false</variable>
+  <variable name="notepad_timestamps">false</variable>
+  <variable name="txt_color">lightgray</variable>
+</variables>
+</muclient>

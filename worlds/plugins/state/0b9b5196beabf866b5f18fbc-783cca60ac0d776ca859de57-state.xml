@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE muclient>
+<!-- Saved on Domingo, Agosto 05, 2012, 1:30 p.m. -->
+<!-- MuClient version 4.81 -->
+<!-- Written by Nick Gammon -->
+<!-- Home Page: http://www.mushclient.com/ -->
+
+<!-- Plugin state saved. Plugin: "tick". World: "Materia Magica GMCP". -->
+
+<muclient>
+
+<!-- variables -->
+
+<variables
+   muclient_version="4.81"
+   world_file_version="15"
+   date_saved="2012-08-05 13:30:40"
+  >
+  <variable name="mw_itick_783cca60ac0d776ca859de57_windowflags">2</variable>
+  <variable name="mw_itick_783cca60ac0d776ca859de57_windowmode">0</variable>
+  <variable name="mw_itick_783cca60ac0d776ca859de57_windowx">656</variable>
+  <variable name="mw_itick_783cca60ac0d776ca859de57_windowy">570</variable>
+</variables>
+</muclient>
